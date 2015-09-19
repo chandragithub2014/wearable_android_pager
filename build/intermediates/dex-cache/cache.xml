@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-060e521f02842842424365ca74eed7d2434b62eb.jar" />
+    </item>
+    <item
+        jar="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\pre-dexed\debug\classes-c8a72f000f13d34c1dd9910d5db0f3fafaadb62d.jar" />
+    </item>
+    <item
+        jar="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\pre-dexed\debug\classes-5216c245dac21a890c822e8ddde86296548c18a5.jar" />
+    </item>
+    <item
+        jar="C:\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-e8f3a194fdc73dc5c5db3fb345bac6a8a170f432.jar" />
+    </item>
+    <item
+        jar="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\pre-dexed\debug\classes-e1621685d6f67f24a643e7c311c317be5af88d2a.jar" />
+    </item>
+    <item
+        jar="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\pre-dexed\debug\classes-b92e8d9661e5b1e99d6685d4f10bddda1472c5cf.jar" />
+    </item>
+    <item
+        jar="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\pre-dexed\debug\classes-80f9c10a76e7d22ea793aadfa512a0f985280449.jar" />
+    </item>
+    <item
+        jar="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\Android_studio_workspace\Wearable_Grid_Pager\wear\build\intermediates\pre-dexed\debug\classes-c940f91a694e5c3873cbde193f760cd1c69d2f6f.jar" />
+    </item>
+
+</items>
